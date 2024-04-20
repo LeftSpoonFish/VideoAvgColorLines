@@ -7,7 +7,7 @@ Video Color Analysis is a Python script for extracting and visualizing average c
 
 ## Installation
 1. Clone the repository:
-      git clone https://github.com/your_username/video-color-analysis.git
+      git clone https://github.com/LeftSpoonFish/video-color-analysis.git
 
 2. Install dependencies:
       pip install -r requirements.txt
